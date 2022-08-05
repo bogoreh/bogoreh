@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogoreh&label=Profile%20views&color=0e75b6&style=flat" alt="bogoreh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abdibogoreh1" target="blank"><img src="https://img.shields.io/twitter/follow/abdibogoreh1?logo=twitter&style=for-the-badge" alt="abdibogoreh1" /></a> </p>
-
 - 🌱 I’m currently learning **python(django)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bogoreh?tab=repositories](https://github.com/bogoreh?tab=repositories)
