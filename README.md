@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdibogoreh1" target="blank"><img src="https://img.shields.io/twitter/follow/abdibogoreh1?logo=twitter&style=for-the-badge" alt="abdibogoreh1" /></a> </p>
 
-- 🔭 I’m currently working on **Nodejs(Expressjs)**
+- 🔭 I’m currently working on **Nodejs(ExpressJS)**
 
 - 👨‍💻 All of my projects are available at [abdibogoreh.netlify.app](abdibogoreh.netlify.app)
 
