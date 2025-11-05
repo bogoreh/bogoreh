@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bogoreh026@gmail.com**
 
-- 📄 Know about my experiences [[[careercv.netlify.app/](careercv.netlify.app/)]](https://careercv.netlify.app/)
+- 📄 Know about my experiences (https://careercv.netlify.app/)
 
 - ⚡ Fun fact **I use tabs over spaces**
 
