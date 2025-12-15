@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogoreh&label=Profile%20views&color=0e75b6&style=flat" alt="bogoreh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bogoreh" alt="bogoreh" /></a> </p>
+
 - 🌱 I’m currently learning **Firebase**
 
 - 👨‍💻 All of my projects are available at [https://abdibogoreh.netlify.app/](https://abdibogoreh.netlify.app/)
@@ -16,11 +18,11 @@
 <a href="https://codepen.io/abdibogoreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdibogoreh" height="30" width="40" /></a>
 <a href="https://twitter.com/abdibogoreh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdibogoreh1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdoulrazak-omar-bogoreh-369121211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdoulrazak-omar-bogoreh-369121211/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abdibogoreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdibogoreh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14926199/abdibogoreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14926199/abdibogoreh" height="30" width="40" /></a>
 <a href="https://fb.com/abdibogoreh.omar?_rdc=1&_rdr#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdibogoreh.omar?_rdc=1&_rdr#" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/abdibogoreh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abdibogoreh1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdibogoreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdibogoreh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bogoreh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bogoreh/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bogoreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bogoreh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
