@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogoreh&label=Profile%20views&color=0e75b6&style=flat" alt="bogoreh" /> </p>
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://abdibogoreh.netlify.app/](https://abdibogoreh.netlify.app/)
 
-- 💬 Ask me about **react, vue and php**
+- 💬 Ask me about **Frontend Developer**
 
 - 📫 How to reach me **bogoreh026@gmail.com**
 
